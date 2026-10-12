@@ -1,6 +1,6 @@
 # FPS (working title)
 
-Browser 3D FPS: CS2-style tactical rounds with MW-style kits, Norse/Germanic aesthetic.
+Deadstop 3D FPS: CS2-style tactical rounds with MW-style kits.
 
 ## Run
 
