@@ -1,0 +1,8 @@
+{
+  "name": "m1-movement-room",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "bun serve.js"
+  }
+}
