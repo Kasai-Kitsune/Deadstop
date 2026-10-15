@@ -17,3 +17,4 @@ Then open http://localhost:4173
 - `game/config.js`: every tunable value
 - `upload/fps-design-spec.md`: design spec
 - `worklog.md`: development log
+- `game/assets/`: meshes
